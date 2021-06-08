@@ -1,0 +1,46 @@
+#nickname {
+    background-color :yellowgreen;
+    text-allign : left;
+}
+
+li {
+    background-color: black;
+    text-align: left;
+    float:left;
+}
+
+h1 a {
+    font-size: 30px;
+}
+
+img {
+
+    width : 800px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+
+  #sns {
+       width : 70px;
+  }
+
+  #site {
+    width : 90px;
+}
+
+#youtube {
+    width : 100px;
+}
